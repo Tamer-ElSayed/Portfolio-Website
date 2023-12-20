@@ -226,7 +226,7 @@ h1 {
   #projects-grid {
     grid-template-columns: repeat(1 ,1fr);
     grid-auto-rows: 85vw;
-    row-gap: 20px;
+    row-gap: 40px;
   }
   .project {
     border-radius: 20px;
